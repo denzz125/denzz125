@@ -15,7 +15,8 @@ Passionate beginner in programming, currently learning and exploring the world o
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  
-  
 </div>
+
+### 📫 Let's Connect!
+<a href="www.instagram/denyazis__"><img src="https://img.shields.io/badge/-instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
