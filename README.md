@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-denzz125&color=blue)
+![](https://komarev.com/ghpvc/?username=denzz125&color=blue)
 
 
 ### 🌱 About Me
