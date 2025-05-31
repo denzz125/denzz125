@@ -18,5 +18,5 @@ Passionate beginner in programming, currently learning and exploring the world o
 </div>
 
 ### 📫 Let's Connect!
-<a href="www.instagram/denyazis__"><img src="https://img.shields.io/badge/-instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="www.instagram/denyazis__" target="_blank"><img src="https://img.shields.io/badge/-instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
